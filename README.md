@@ -6,6 +6,11 @@
 
 ##### This Android application will provide the following Utilities to User:
 ##### 1. Acquainting the user with the power of scanning text from anywhere(using the camera) and user can extract the text like website url ,email-Id and copy that text and use as and when required.
-##### 2. This app also allows the user to scan the QR Code and Retrive Data and Use it as per Requirement.   
+##### 2. This app also allows the user to scan the QR Code and Retrive Data and Use it as per Requirement.
+
+![](https://raw.githubusercontent.com/rob729/Speculo/master/screenshots/s1.png)&nbsp;&nbsp;&nbsp;
+![](https://raw.githubusercontent.com/rob729/Speculo/master/screenshots/s3.png)
+![](https://raw.githubusercontent.com/rob729/Speculo/master/screenshots/s2.png)
+
 
 ##### Download[ .apk](https://drive.google.com/open?id=1-lawdaTrGwMC_q4xbn8qlvPV-NcvVHWz)
